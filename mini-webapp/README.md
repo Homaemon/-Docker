@@ -5,7 +5,7 @@
 
 ## ディレクトリ構成
 mini-webapp/
-├── app.py # Flask アプリ本体
+/n├── app.py # Flask アプリ本体
 ├── requirements.txt # 必要なライブラリ一覧
 ├── Dockerfile # Docker イメージビルド用設定
 └── templates/
