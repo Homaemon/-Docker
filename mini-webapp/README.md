@@ -29,4 +29,4 @@ docker build --no-cache -t mini-webapp .
 ### 2.起動のためのdockerコマンド
 docker run -d --name mini-webapp -p 8000:8000 mini-webapp
 ### 3.動作確認
-http://localhost:8000をブラウザ上で起動する
+http://localhost:8000 をブラウザ上で起動する
