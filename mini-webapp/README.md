@@ -4,7 +4,7 @@
 ユーザーが 2 つの数値と演算子（+ - × ÷）を入力し、「計算する」ボタンで結果を表示するという内容になっている。
 
 ## ディレクトリ構成
-mini-webapp/
+mini-webapp/  
 ├── app.py # Flask アプリ本体
 ├── requirements.txt # 必要なライブラリ一覧
 ├── Dockerfile # Docker イメージビルド用設定
