@@ -9,14 +9,14 @@ mini-webapp/
 ├── requirements.txt # 必要なライブラリ一覧  
 ├── Dockerfile # Docker イメージビルド用設定  
 └── templates/  
-    └── WebApp.html # HTML テンプレート（四則演算フォーム）  
+└── WebApp.html # HTML テンプレート（四則演算フォーム）  
 
 ## 使用技術
 
-・Python 3.12
-・Flask 3.0.3
-・Gunicorn 22.0.0
-・Docker Desktop（WSL2）
+・Python 3.12  
+・Flask 3.0.3  
+・Gunicorn 22.0.0  
+・Docker Desktop（WSL2）  
 
 ## 構築手順（Docker 利用）
 
